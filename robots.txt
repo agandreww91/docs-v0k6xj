@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-q3u5rn.gpubrief.com/sitemap.xml
